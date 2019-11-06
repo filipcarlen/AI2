@@ -1,0 +1,11 @@
+{
+  "name": "ai2questions",
+  "version": "1.0.0",
+  "main": "run_suite.js",
+  "author": "Lars Gribbe",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "challenger": "^1.0.2",
+    "mocha": "^3.1.0"
+  }
+}
